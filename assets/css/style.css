@@ -1,0 +1,15 @@
+body{
+	background-image: url("http://3vjhyn2i4tw93whkoj1sjvwx.wpengine.netdna-cdn.com/wp-content/uploads/2016/08/Soccer-Field-close-up-of-grass-soccer-field.jpg");
+	
+	text-align: center;
+}
+
+.text-muted{
+	color: rgb(224, 224, 41);
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
